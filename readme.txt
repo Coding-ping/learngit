@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git is a great software.
 Creating a new branch is quick.
-master branch 2 fix
+Creating a new branch is quick & simple.
